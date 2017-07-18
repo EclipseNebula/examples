@@ -1,0 +1,12 @@
+Manifest-Version: 1.0
+Bundle-ManifestVersion: 2
+Bundle-Name: Knob
+Bundle-SymbolicName: nebula.examples.knob
+Bundle-Version: 1.0.0.qualifier
+Bundle-Vendor: Wim Jongman
+Bundle-RequiredExecutionEnvironment: JavaSE-1.8
+Require-Bundle: org.eclipse.ui,
+ org.eclipse.core.runtime,
+ org.eclipse.nebula.visualization.widgets,
+ org.eclipse.draw2d,
+ org.eclipse.nebula.visualization.xygraph;bundle-version="3.0.0"
